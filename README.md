@@ -2,6 +2,10 @@
 
 This repository contains the files related to a patent application for a method and system for product recommendation based on user interaction.
 
+## Patent and Publications:
+Please go to following repository called [Patent and Publications](https://github.com/Praveen76/Patents-and-Publications/) to access my all noteworthy patents and publication in the field of Data Science.
+
+
 ## Accessing Patent Drafts
 
 To access the detailed content and official status of the patent drafts, please refer to the official Intellectual Property India website using the application number 202341075775 on [Intellectual Property India](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus).
