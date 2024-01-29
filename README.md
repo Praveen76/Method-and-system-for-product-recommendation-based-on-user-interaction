@@ -4,8 +4,7 @@ This repository contains the files related to a patent application for a method 
 
 ## Accessing Patent Drafts
 
-To access the detailed content and official status of the patent drafts, please refer to the official Intellectual Property India website using the application number 202341075775 on [Intellectual Property India](https://ipindia.gov.in/)
-
+To access the detailed content and official status of the patent drafts, please refer to the official Intellectual Property India website using the application number 202341075775 on [Intellectual Property India](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus).
 
 ## Patent Summary
 
